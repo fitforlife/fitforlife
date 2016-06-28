@@ -20,11 +20,13 @@ h1 {
   font-family: Quicksand;
   font-size: 4em;
   margin-bottom: 0px;
+  color: white;
 }
 h2 {
   font-family: OpenSans;
   font-size: 2em;
   margin-top: 0px;
+  color: white;
 }
 h3 {
     font-family: Quicksand;

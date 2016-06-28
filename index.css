@@ -9,7 +9,7 @@
   margin: -75px 0 0 -75px;
   border: 16px solid #f3f3f3;
   border-radius: 50%;
-  border-top: 16px solid #3498db;
+  border-top: 16px solid black;
   width: 120px;
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
@@ -71,13 +71,13 @@ h1 {
   font-family: Quicksand;
   font-size: 4em;
   margin-bottom: 0px;
-  color: gray;
+  color: black;
 }
 h2 {
   font-family: OpenSans;
   font-size: 2em;
   margin-top: 0px;
-  color: gray;
+  color: black;
 }
 h3 {
     font-family: Quicksand;

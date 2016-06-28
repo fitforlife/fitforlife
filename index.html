@@ -5,6 +5,14 @@
 <title>Fit For Life!</title>
 </head>
 <body id="body" onload="myFunction()" style="margin:0">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("div").scrollLeft(10);
+    });
+});
+</script>
 <div id="loader"></div>
 <div style="display:none;" id="myDiv" class="animate-bottom">
 <div class="No_Center">

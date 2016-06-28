@@ -28,3 +28,10 @@ body {
     border-color: black;
     width: 400px;
 }
+.fit1 {
+    display: inline;
+    width: 400px;
+}
+.fit1 h2 {
+    font-family: Quicksand;
+}

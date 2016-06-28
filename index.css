@@ -86,7 +86,7 @@ body {
     border-right-width: 5px;
     border-color: black;
 }
-.fit1 {
+.fit3 {
     vertical-align: top;
     display: inline-block;
     width: 400px;
@@ -95,4 +95,7 @@ body {
     border-right-style: solid;
     border-right-width: 5px;
     border-color: black;
+}
+.fit3 h2 {
+    font-family: Quicksand;
 }

@@ -27,7 +27,6 @@ body {
     border-right-width: 5px;
     border-color: black;
     width: 400px;
-    position: relative;
     top: 50%;
     transform: translateY(-50%);
 }

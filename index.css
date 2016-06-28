@@ -80,3 +80,13 @@ body {
     border-right-width: 5px;
     border-color: black;
 }
+.fit1 {
+    vertical-align: top;
+    display: inline-block;
+    width: 400px;
+    margin-left: 20px;
+    padding: 1em;
+    border-right-style: solid;
+    border-right-width: 5px;
+    border-color: black;
+}

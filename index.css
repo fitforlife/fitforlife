@@ -16,6 +16,14 @@ h2 {
   font-size: 2em;
   margin-top: 0px;
 }
+h3 {
+    font-family: Quicksand;
+    font-size: 1.5em;
+}
+h4 {
+    font-family: sans-serif;
+    font-size: .5em;
+}
 p {
     font-size: 1em;
     font-family: OpenSans;
@@ -54,4 +62,13 @@ body {
 }
 .fit2 h2 {
     font-family: Quicksand;
+}
+.fit2b {
+    display: inline-block;
+    width: 400px;
+    margin-left: 20px;
+    padding: 1em;
+    border-right-style: solid;
+    border-right-width: 5px;
+    border-color: black;
 }

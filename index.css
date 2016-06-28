@@ -9,7 +9,6 @@
 h1 {
   font-family: Quicksand;
   font-size: 4em;
-  color: white;
   margin-bottom: 0px;
 }
 h2 {
@@ -19,7 +18,7 @@ h2 {
 }
 body {
     background-color: #e68a00;
-    padding: 20px;
+    padding: 40px;
 }
 .loadyThing {
     text-align: left;

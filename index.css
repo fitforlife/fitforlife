@@ -109,7 +109,7 @@ body {
     text-align: left;
     border-right-style: solid;
     border-right-width: 5px;
-    border-color: black;
+    border-color: white;
     width: 400px;
     float: left;
     padding: 1em;
@@ -122,7 +122,7 @@ body {
     padding: 1em;
     border-right-style: solid;
     border-right-width: 5px;
-    border-color: black;
+    border-color: white;
         height: 600px;
 }
 .fit1 h2 {
@@ -147,7 +147,7 @@ body {
     padding: 1em;
     border-right-style: solid;
     border-right-width: 5px;
-    border-color: black;
+    border-color: white;
         height: 600px;
 }
 .fit3 {
@@ -158,7 +158,7 @@ body {
     padding: 1em;
     border-right-style: solid;
     border-right-width: 5px;
-    border-color: black;
+    border-color: white;
         height: 600px;
 }
 .fit3 h2 {

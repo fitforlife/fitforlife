@@ -4,7 +4,9 @@
 <link rel="stylesheet" type="text/css" href="index.css">
 <title>Fit For Life!</title>
 </head>
-<body>
+<body onload="myFunction() style="margin:0">
+<div id="loader"></div>
+<div style="display:none;" id="myDiv" class="animate-bottom">
 <div class="loadyThing">
   <h1>Fit For Life!</h1>
   <h2>By: Carson Wright</h2>
@@ -58,5 +60,18 @@
     <li><a href="http://www.photos-public-domain.com/2012/07/24/pumpkin-orange-diagonal-striped-plastic-texture/">http://www.photos-public-domain.com/2012/07/24/pumpkin-orange-diagonal-striped-plastic-texture/</a></li>
   </ul>
 </div>
+</div>
+<script>
+var myVar;
+
+function myFunction() {
+    myVar = setTimeout(showPage, 3000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+</script>
 </body>
 </html>

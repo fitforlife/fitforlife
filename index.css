@@ -19,6 +19,7 @@ h2 {
 body {
     background-color: #e68a00;
     padding: 40px;
+    width: 700px;
 }
 .loadyThing {
     text-align: left;

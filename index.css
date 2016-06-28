@@ -23,4 +23,8 @@ body {
 }
 .loadyThing {
     text-align: left;
+    border-right-style: solid;
+    border-right-width: 5px;
+    border-color: black;
+    width: 400px;
 }

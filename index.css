@@ -10,15 +10,17 @@ h1 {
   font-family: Quicksand;
   font-size: 4em;
   color: white;
+  margin-bottom: 0px;
 }
 h2 {
   font-family: OpenSans;
   font-size: 2em;
+  margin-top: 0px;
 }
 body {
     background-color: #e68a00;
-    padding: 100px;
+    padding: 20px;
 }
 .loadyThing {
-    text-align: center;
+    text-align: left;
 }

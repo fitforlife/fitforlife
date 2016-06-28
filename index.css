@@ -103,7 +103,7 @@ body {
     background-image: url("pumpkin.jpg");
 }
 .No_Center {
-  text-align: none;
+  text-align: initial;
 }
 .loadyThing {
     text-align: left;

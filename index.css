@@ -27,6 +27,8 @@ body {
     border-right-width: 5px;
     border-color: black;
     width: 400px;
+    float: left;
+    padding: 1em;
 }
 .fit1 {
     display: inline;

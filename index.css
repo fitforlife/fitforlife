@@ -45,9 +45,9 @@ p {
     font-family: OpenSans;
 }
 body {
-    background-color: #e68a00;
     padding: 40px;
-    width: 3200px;
+    width: 2900px;
+    background-image: url("pumpkin.jpg");
 }
 .loadyThing {
     text-align: left;
@@ -111,7 +111,7 @@ body {
 .fit4 {
     vertical-align: top;
     display: inline-block;
-    width: 400px;
+    width: 290px;
     margin-left: 20px;
     padding: 1em;
     height: 600px;

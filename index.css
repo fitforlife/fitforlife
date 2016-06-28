@@ -16,10 +16,14 @@ h2 {
   font-size: 2em;
   margin-top: 0px;
 }
+p {
+    font-size: 1em;
+    font-family: OpenSans;
+}
 body {
     background-color: #e68a00;
     padding: 40px;
-    width: 700px;
+    width: 2000px;
 }
 .loadyThing {
     text-align: left;
@@ -31,8 +35,9 @@ body {
     padding: 1em;
 }
 .fit1 {
-    display: inline;
+    display: inline-block;
     width: 400px;
+    margin-left: 20px;
 }
 .fit1 h2 {
     font-family: Quicksand;

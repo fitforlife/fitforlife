@@ -57,6 +57,7 @@ body {
     font-family: Quicksand;
 }
 .fit2 {
+    vertical-align: top;
     display: inline-block;
     width: 400px;
     margin-left: 20px;
@@ -66,6 +67,7 @@ body {
     font-family: Quicksand;
 }
 .fit2b {
+    vertical-align: top;
     display: inline-block;
     width: 400px;
     margin-left: 20px;

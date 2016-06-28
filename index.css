@@ -102,6 +102,9 @@ body {
     width: 2900px;
     background-image: url("pumpkin.jpg");
 }
+.No_Center {
+  text-align: none;
+}
 .loadyThing {
     text-align: left;
     border-right-style: solid;

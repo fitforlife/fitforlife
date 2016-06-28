@@ -53,6 +53,7 @@ body {
     width: 400px;
     float: left;
     padding: 1em;
+        height: 600px;
 }
 .fit1 {
     display: inline-block;
@@ -62,6 +63,7 @@ body {
     border-right-style: solid;
     border-right-width: 5px;
     border-color: black;
+        height: 600px;
 }
 .fit1 h2 {
     font-family: Quicksand;
@@ -72,6 +74,7 @@ body {
     width: 400px;
     margin-left: 20px;
     padding: 1em;
+        height: 600px;
 }
 .fit2 h2 {
     font-family: Quicksand;
@@ -85,6 +88,7 @@ body {
     border-right-style: solid;
     border-right-width: 5px;
     border-color: black;
+        height: 600px;
 }
 .fit3 {
     vertical-align: top;
@@ -95,7 +99,16 @@ body {
     border-right-style: solid;
     border-right-width: 5px;
     border-color: black;
+        height: 600px;
 }
 .fit3 h2 {
     font-family: Quicksand;
+}
+.fit4 {
+    vertical-align: top;
+    display: inline-block;
+    width: 400px;
+    margin-left: 20px;
+    padding: 1em;
+    height: 600px;
 }

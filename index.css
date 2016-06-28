@@ -21,10 +21,4 @@ body {
 }
 .loadyThing {
     text-align: center;
-    animation-name: fade;
-    animation-duration: .5s;
-}
-@keyframes fade {
-    from {opacity: 0;}
-    to {opacity: 1;}
 }
